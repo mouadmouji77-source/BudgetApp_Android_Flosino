@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transaction_types">
+        <item>Income</item>
+        <item>Expense</item>
+    </string-array>
+
+    <string-array name="expense_categories">
+        <item>Alimentation</item>
+        <item>Transport</item>
+        <item>Logement</item>
+        <item>Factures</item>
+        <item>Shopping</item>
+        <item>Santé</item>
+        <item>Loisirs</item>
+        <item>Éducation</item>
+        <item>Restaurants</item>
+        <item>Voyage</item>
+        <item>Autre</item>
+    </string-array>
+
+    <string-array name="income_categories">
+        <item>Salaire</item>
+        <item>Freelance</item>
+        <item>Investissements</item>
+        <item>Cadeaux</item>
+        <item>Remboursements</item>
+        <item>Autre</item>
+    </string-array>
+</resources> 

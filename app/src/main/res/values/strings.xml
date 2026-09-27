@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flosino</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="view_statistics">Statistics</string>
+    <string name="amount">Amount</string>
+    <string name="type">Type</string>
+    <string name="category">Category</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="total">Total: $%.2f</string>
+    <string name="enter_amount">Enter amount</string>
+    <string name="enter_description">Enter description</string>
+    <string name="select_category">Select category</string>
+</resources> 

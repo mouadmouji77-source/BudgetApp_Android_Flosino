@@ -1,0 +1,19 @@
+# Gradle
+.gradle/
+build/
+
+# Android
+local.properties
+*.iml
+.DS_Store
+
+# IDE
+.idea/
+.project
+.settings/
+.cursor/
+
+# Local machine specific
+*.log
+*.apk
+*.aab
